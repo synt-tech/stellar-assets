@@ -313,6 +313,12 @@
       "publicKey": "GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N",
       "domain": "sureremit.co",
       "image": "https://suregifts.com/.well-known/rmt.png"
+    },
+    {
+      "code": "sUSD",
+      "publicKey": "GCHW7CWI7GMIYQYFXMFJNJX5645XGWIINIAEQK3SABQO6CAYL5T7JYIH",
+      "domain": "synt.tech",
+      "image": "https://synt.tech/synt_tech_100c.png"
     }
   ]
 }
